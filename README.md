@@ -2,9 +2,9 @@
  - Learning React Native by Building a Foking weather App
 
 ### Install
-git clone (thispage)
-npm i
-yarn start (npm start)
+ - git clone (thispage)
+ - npm i
+ - yarn start (npm start)
 
 ### How to run
  - install Expo application(Playstore, Appstore)
